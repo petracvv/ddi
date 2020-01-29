@@ -11,11 +11,13 @@ classifiers = ["License :: OSI Approved :: GNU Affero General Public License v3 
 requires = [
     "click",
     "colorama",
+    "keyring",
     "netaddr",
     "pyjsend",
     "pyyaml",
     "requests",
     "secretstorage",
+    "url_normalize"
 ]
 
 [tool.flit.scripts]

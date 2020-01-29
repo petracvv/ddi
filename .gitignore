@@ -168,3 +168,5 @@ fabric.properties
 
 # Environment file for easy setup
 env.sh
+
+.vscode/
